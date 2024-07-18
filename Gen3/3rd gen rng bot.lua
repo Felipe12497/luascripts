@@ -1,17 +1,17 @@
 --User input
 
 --Please input your desired PID
-targetPID = 0xACA5b8a9
+targetPID = 2AAC58C4
 
 --Please enter the 16bit seed your PID occurs
-target16Bit = 0x1446
+target16Bit = 9239735C
 
 --Please enter your target frame
-targetFrame = 116887
+targetFrame = 6909
 
 --Ruby/Sapphire is 0, FireRed/LeafGreen is 1, Emerald is 2
 --If you don't set it properly the script won't work as intened
-gameVersion=0
+gameVersion=2
 
 --Instructions
 --Only tested on stationary pokemon(aka Method 1 only)
